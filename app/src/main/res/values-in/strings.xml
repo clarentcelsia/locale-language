@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengaturan Bahasa</string>
+    <string name="title">Apa itu Lorem Ipsum</string>
+    <string name="body">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun.</string>
+    <string name="titlebar">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="date_amp_time">Tanggal &amp; Waktu</string>
+    <string name="chats">Obrolan</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="data_and_storage">Data and Penyimpanan</string>
+    <string name="privacy">Privasi</string>
+    <string name="help">Bantuan</string>
+    <string name="powered_by">POWERED BY</string>
+    <string name="prefferedlang">Pilih Bahasa</string>
+    <string name="setting_language">Atur bahasa...</string>
+</resources>

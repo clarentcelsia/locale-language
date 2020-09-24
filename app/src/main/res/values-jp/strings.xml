@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageSettings</string>
+    <string name="title">Lorem Ipsumとは何ですか？</string>
+    <string name="body"> Lorem Ipsumは、印刷および組版業界の単なるダミーテキストです。 Lorem Ipsumは、1500年代から未知のプリンターがタイプのギャレーを取り、それをスクランブルしてタイプ見本帳を作成して以来、業界標準のダミーテキストでした。それは5世紀だけでなく、電子植字への飛躍を乗り越え、本質的に変更されていないままです。</string>
+    <string name="titlebar">設定</string>
+    <string name="language">言語</string>
+    <string name="date_amp_time">日時</string>
+    <string name="chats">チャット</string>
+    <string name="notifications">通知</string>
+    <string name="data_and_storage">データとストレージ</string>
+    <string name="privacy">プライバシー</string>
+    <string name="help">アシスト</string>
+    <string name="powered_by">搭載</string>
+    <string name="prefferedlang">優先言語</string>
+    <string name="setting_language">言語の設定する...</string>
+</resources>
